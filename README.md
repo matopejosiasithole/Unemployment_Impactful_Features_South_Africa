@@ -19,8 +19,8 @@
 For this project as part of UDACITY Data Science Nanodegree program submission, I was interestested in understanding South Africa's unemployment rate and its top contributing factors from the World Bank Group JOBS Dataset
 
 1. Features with an 80 percent correlation to the target variable.
-2. Training a linear model with the 80 percent correlated features and determining feature importance from Shaply values.
-3. Draw an understanding from the impactful features from the Shaply values.
+2. Training a Linear Regression model with the 80 percent correlated features and determining permutation feature importance.
+3. Determine feature importance from a Randomn Forest Regressor model using SHAP Values.
 
 ## File Descriptions <a name="files"></a>
 
